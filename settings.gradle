@@ -1,0 +1,2 @@
+rootProject.name='Tabbed-Activity-Java'
+include ':app'
